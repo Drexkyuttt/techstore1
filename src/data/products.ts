@@ -157,7 +157,7 @@ export const heroSlides = [
   {
     title: "Premium Audio",
     subtitle: "Experience sound like never before",
-    image: "./public/images/headphone-user.jpg",
+    image: "./public/images/pc-user.jpg",
     cta: "Explore Audio"
   }
 ];
