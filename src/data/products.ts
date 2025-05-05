@@ -151,13 +151,13 @@ export const heroSlides = [
   {
     title: "Next-Gen Technology",
     subtitle: "Discover the future of tech with our latest collection",
-    image: "./public/images/laptop-user.jpg",
+    image: "./images/laptop-user.jpg",
     cta: "Shop Now"
   },
   {
     title: "Premium Audio",
     subtitle: "Experience sound like never before",
-    image: "./public/images/pc-user.jpg",
+    image: "./images/pc-user.jpg",
     cta: "Explore Audio"
   }
 ];
