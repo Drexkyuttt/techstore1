@@ -4,14 +4,14 @@ export const products = [
     id: 1,
     name: "Wireless Headphones",
     price: 11999,
-    image: "./public/images/headphone.jpg",
+        image: "./images/headphone.jpg",
     category: "Audio"
   },
   {
     id: 2,
     name: "Premium Earbuds",
     price: 8499,
-    image: "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&q=80",
+     image: "./images/airpods-user.jpg",
     category: "Audio"
   },
   {
@@ -27,21 +27,15 @@ export const products = [
     id: 4,
     name: "Smart Watch",
     price: 16999,
-    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+     image: "./images/smart-user.jpg",
     category: "Wearables"
   },
-  {
-    id: 5,
-    name: "Fitness Tracker",
-    price: 4499,
-    image: "https://images.unsplash.com/photo-1575311373937-040b8e3fd6ce?w=500&q=80",
-    category: "Wearables"
-  },
+
   {
     id: 6,
     name: "Smart Glasses",
     price: 11999,
-    image: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&q=80",
+    image: "./images/sunglasses-user.jpg",
     category: "Wearables"
   },
 
@@ -64,7 +58,7 @@ export const products = [
     id: 9,
     name: "Action Camera",
     price: 16999,
-    image: "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500&q=80",
+    image: "./images/camera-user.jpg",
     category: "Cameras"
   },
 
@@ -80,14 +74,14 @@ export const products = [
     id: 11,
     name: "Desktop PC",
     price: 54999,
-    image: "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=500&q=80",
+     image: "./images/pc-user.jpg",
     category: "Computers"
   },
   {
     id: 12,
     name: "Mini PC",
     price: 27999,
-    image: "https://images.unsplash.com/photo-1587831990711-23ca6441447b?w=500&q=80",
+    image: "./images/minipc-user.jpg",
     category: "Computers"
   },
 
@@ -96,7 +90,7 @@ export const products = [
     id: 13,
     name: "4K Monitor",
     price: 27999,
-    image: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80",
+      image: "./images/monitor-user.jpg",
     category: "Monitors"
   },
   {
@@ -122,20 +116,6 @@ export const products = [
     image: "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&q=80",
     category: "Accessories"
   },
-  {
-    id: 17,
-    name: "Mechanical Keyboard",
-    price: 7499,
-    image: "https://images.unsplash.com/photo-1595225476474-063e70351d0d?w=500&q=80",
-    category: "Accessories"
-  },
-  {
-    id: 18,
-    name: "USB-C Hub",
-    price: 2799,
-    image: "https://images.unsplash.com/photo-1619556534514-166343f3ff43?w=500&q=80",
-    category: "Accessories"
-  }
 ];
 
 export const categories = [
