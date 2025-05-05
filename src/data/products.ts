@@ -11,7 +11,7 @@ export const products = [
     id: 2,
     name: "Premium Earbuds",
     price: 8499,
-    image: "./images/airpods-user.jpg",
+    image: "./public/images/airpods-user.jpg",
     category: "Audio"
   },
   {
@@ -27,7 +27,7 @@ export const products = [
     id: 4,
     name: "Smart Watch",
     price: 6999,
-    image: "./images/smart-user.jpg",
+    image: "./public/images/smart-user.jpg",
     category: "Wearables"
   },
   
